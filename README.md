@@ -5,6 +5,7 @@ Bats' EEG data was collected at Prof Yossi Yovel lab to distinguish between four
 2. Asleep mobile - ASM
 3. Awake imobile - AWI
 4. Awake mobile - AWM
+
 Unfortunately, the data distribution is very sparse with varying samples for each class (see the histogram in the code). 
 
 The data has about 1100 samples from different bats and the classifier has to predict the labels of unseen samples.
